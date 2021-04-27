@@ -3,6 +3,7 @@
     padding: 0;
 }
 body{
+    background-image: url('background.jpg');
     background-repeat: no-repeat;
     min-height: 500px;
     background-attachment: fixed;
@@ -11,12 +12,12 @@ body{
 }
 div{
     position: absolute;
-    width: 80%;
+    width: 85%;
     background-color: rgba(245, 222, 179, 0.459);
-    left: 10%;
-    right: 10%;
+    left: 7.5%;
+    right: 7.5%;
     font-size: 28px;
-    font-family: cursive;
+    font-family: 'Reggae One';
     justify-content: center;
     color: black;
 }
